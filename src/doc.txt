@@ -1,0 +1,1 @@
+dotnet ef database update --verbose --project C:\Users\Евдокимовы\Documents\projects\lodrok\src\Infrastructure   --startup-project C:\Users\Евдокимовы\Documents\projects\lodrok\src\WebApi
